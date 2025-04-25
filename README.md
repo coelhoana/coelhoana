@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated typing text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=800020&vCenter=true&repeat=true&width=400&height=50&lines=Ana+Coelho;Data+Science" alt="Animated Name">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=800020&vCenter=true&repeat=true&width=1300&height=140&lines=Ana+Coelho;Data+Science" alt="Animated Name">
 
   <!-- Information box with rounded border -->
   <div style="border: 2px solid #FFD1DC; border-radius: 15px; padding: 15px; display: inline-block; margin: 20px 0; background-color: #FFF0F5;">
@@ -10,7 +10,7 @@
   </div>
 
   <!-- Smaller GIF -->
-  <img src="https://media2.giphy.com/media/oWUuipyxfBYGuvEn2K/giphy.gif" width="200" alt="Data Science Animation">
+  <img src="https://media2.giphy.com/media/oWUuipyxfBYGuvEn2K/giphy.gif" width="40" alt="Data Science Animation">
 </div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cttanacoelho)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cttanacoelho@gmail.com)
