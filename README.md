@@ -1,18 +1,20 @@
-<div style="display: flex; align-items: center; gap: 20px;">
-  <!-- Seção de Texto -->
-  <div style="flex: 1;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=800020&width=400&lines=Olá,+eu+sou+a+Ana+Coelho!" alt="Typing Animation">
+<div style="display: flex; align-items: flex-start; gap: 30px;">
+  <!-- Texto à esquerda (70%) -->
+  <div style="flex: 70%;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=800020&width=380&lines=Olá,+eu+sou+a+Ana+Coelho!" alt="Typing Animation">
     
-    <p style="margin-top: 20px; font-size: 18px;">
-      ✰ <strong>Aspirante a Cientista de Dados</strong> ✰<br>
-      <strong>Python | SQL | Power BI</strong><br>
-      <em>Engenharia da Computação - UEMG</em>
-    </p>
+    <div style="background-color: #FFF0F5; border-left: 4px solid #FFD1DC; padding: 15px; margin-top: 20px; border-radius: 0 8px 8px 0;">
+      <p style="font-size: 17px; margin: 0; line-height: 1.6;">
+        ✧ <strong>Aspirante a Cientista de Dados</strong> ✧<br>
+        <strong>Python | SQL | Power BI</strong><br>
+        <em>Engenharia da Computação - UEMG</em>
+      </p>
+    </div>
   </div>
 
-  <!-- Seção do GIF -->
-  <div style="flex: 1; text-align: right;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ0bzh3Nmx5MGw1NDE1MmpiZXc4czJubDRobXI4ZTlycG0zOHJuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9lwr4z6CSzlxC/giphy.gif" width="300" alt="Data Analysis GIF">
+  <!-- GIF à direita (30%) -->
+  <div style="flex: 30%; text-align: right;">
+    <img src="https://media3.giphy.com/media/9lwr4z6CSzlxC/giphy.gif" width="260" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Análise de Dados">
   </div>
 </div>
 <h3 align="left">Connect with me!</h3>
