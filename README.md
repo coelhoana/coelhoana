@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=1000&color=800020&center=true&vCenter=true&width=600&height=100&lines=Olá%2C+eu+sou+a+Ana+Coelho!" alt="Typing Animation" />
-</div>
+  <!-- Working Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=800020&center=true&repeat=true&width=400&lines=Olá%2C+eu+sou+a+Ana+Coelho!" alt="Typing Animation">
 
   <!-- Right-aligned GIF -->
   <img src="https://media2.giphy.com/media/oWUuipyxfBYGuvEn2K/giphy.gif" width="100" align="right" alt="Data Science GIF">
