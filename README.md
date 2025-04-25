@@ -1,11 +1,14 @@
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=800020&width=450&lines=Olá,+eu+sou+a+Ana+Coelho!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=c51a1a&width=450&lines=Olá,+eu+sou+a+Ana+Coelho!" alt="Typing Animation">
 </div>
 
 <div align="left">
   ✰ <strong>Aspirante a Cientista de Dados</strong> ✰<br>
-  Estudante de Engenharia da Computação na UEMG (5º período), com foco em ciência de dados e estatística.<br>
-  Atualmente estudo Python, engenharia com análise de dados, e busco desenvolver soluções inteligentes e baseadas em evidências.
+  
+  Estudante de Engenharia da Computação na UEMG (5º período), <br>
+  com foco em ciência de dados e estatística.Atualmente estudo <br>
+  Python, engenharia com análise de dados, e busco desenvolver <br>
+  soluções inteligentes e baseadas em evidências.
 </div>
 
 <div align="right">
