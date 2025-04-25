@@ -10,7 +10,7 @@
   </div>
 
   <!-- Smaller GIF -->
-  <img src="https://media2.giphy.com/media/oWUuipyxfBYGuvEn2K/giphy.gif" width="40" alt="Data Science Animation">
+  <img src="https://media2.giphy.com/media/oWUuipyxfBYGuvEn2K/giphy.gif" width="60" alt="Data Science Animation">
 </div>
 
 
