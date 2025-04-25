@@ -1,16 +1,10 @@
 <div align="center">
-  <!-- Working Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=800020&center=true&repeat=true&width=400&lines=Olá%2C+eu+sou+a+Ana+Coelho!" alt="Typing Animation">
-
-  <!-- Right-aligned GIF -->
-  <img src="https://media2.giphy.com/media/oWUuipyxfBYGuvEn2K/giphy.gif" width="100" align="right" alt="Data Science GIF">
-
-  <!-- Rounded box with information -->
-  <div style="border: 2px solid #FFD1DC; border-radius: 15px; padding: 15px; margin: 20px 0; background-color: #FFF0F5; text-align: center;">
-    ✰ <strong>Aspirante a Cientista de Dados</strong> ✰<br>
-    <strong>Python | SQL | Power BI</strong><br>
-    <em>Engenharia da Computação</em>
-  </div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=800020&center=true&width=500&lines=Olá,+eu+sou+a+Ana+Coelho!" alt="Typing Animation">
+  
+  ✰ Aspirante a Cientista de Dados ✰  
+  Python | SQL | Power BI  
+  Engenharia da Computação
+</div>
 
 <h3 align="left">Connect with me!</h3>
  
