@@ -12,12 +12,11 @@
   <!-- Smaller GIF -->
   <img src="https://media2.giphy.com/media/oWUuipyxfBYGuvEn2K/giphy.gif" width="40" alt="Data Science Animation">
 </div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cttanacoelho)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cttanacoelho@gmail.com)
+
 
 ---
 
-## 🛠 Tecnologias
+## 𖦹 Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
