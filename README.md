@@ -1,7 +1,7 @@
-<div style="display: flex; align-items: flex-start; gap: 30px;">
-  <!-- Texto à esquerda (70%) -->
-  <div style="flex: 70%;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=800020&width=380&lines=Olá,+eu+sou+a+Ana+Coelho!" alt="Typing Animation">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <!-- Seção de Texto -->
+  <div style="flex: 1;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=800020&width=400&lines=Olá,+eu+sou+a+Ana+Coelho!" alt="Typing Animation">
     
     <div style="background-color: #FFF0F5; border-left: 4px solid #FFD1DC; padding: 15px; margin-top: 20px; border-radius: 0 8px 8px 0;">
       <p style="font-size: 17px; margin: 0; line-height: 1.6;">
