@@ -1,3 +1,5 @@
+<img align="right" width="300" src="https://media2.giphy.com/media/oWUuipyxfBYGuvEn2K/giphy.gif" alt="Data Analysis GIF">
+
 # Ana Coelho 🐇
 **✰ Aspirante a Cientista de Dados ✰ 
   Python | C | SQL
