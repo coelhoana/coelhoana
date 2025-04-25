@@ -1,17 +1,16 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=800020&width=450&lines=Olá,+eu+sou+a+Ana+Coelho!" alt="Typing Animation"><br><br>
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=800020&width=450&lines=Olá,+eu+sou+a+Ana+Coelho!" alt="Typing Animation">
+</div>
 
-      ✰ <strong>Aspirante a Cientista de Dados</strong> ✰<br>
-      Estudante de Engenharia da Computação na UEMG (5º período), com foco em ciência de dados e estatística.<br>
-      Atualmente estudo Python, engenharia com análise de dados, e busco desenvolver soluções inteligentes e baseadas em evidências.
-    </td>
-    <td>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ0bzh3Nmx5MGw1NDE1MmpiZXc4czJubDRobXI4ZTlycG0zOHJuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9lwr4z6CSzlxC/giphy.gif" width="200" alt="Data Analysis GIF">
-    </td>
-  </tr>
-</table>
+<div align="left">
+  ✰ <strong>Aspirante a Cientista de Dados</strong> ✰<br>
+  Estudante de Engenharia da Computação na UEMG (5º período), com foco em ciência de dados e estatística.<br>
+  Atualmente estudo Python, engenharia com análise de dados, e busco desenvolver soluções inteligentes e baseadas em evidências.
+</div>
+
+<div align="right">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ0bzh3Nmx5MGw1NDE1MmpiZXc4czJubDRobXI4ZTlycG0zOHJuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9lwr4z6CSzlxC/giphy.gif" width="200" alt="Data Analysis GIF">
+</div>
 
 <h3 align="left">Connect with me!</h3>
  
