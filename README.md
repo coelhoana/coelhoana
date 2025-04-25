@@ -1,11 +1,20 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=800020&center=true&width=500&lines=Olá,+eu+sou+a+Ana+Coelho!" alt="Typing Animation">
-  
-  ✰ Aspirante a Cientista de Dados ✰  
-  Python | SQL | Power BI  
-  Engenharia da Computação
-</div>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <!-- Seção de Texto -->
+  <div style="flex: 1;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=800020&width=400&lines=Olá,+eu+sou+a+Ana+Coelho!" alt="Typing Animation">
+    
+    <p style="margin-top: 20px; font-size: 18px;">
+      ✰ <strong>Aspirante a Cientista de Dados</strong> ✰<br>
+      <strong>Python | SQL | Power BI</strong><br>
+      <em>Engenharia da Computação - UEMG</em>
+    </p>
+  </div>
 
+  <!-- Seção do GIF -->
+  <div style="flex: 1; text-align: right;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ0bzh3Nmx5MGw1NDE1MmpiZXc4czJubDRobXI4ZTlycG0zOHJuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9lwr4z6CSzlxC/giphy.gif" width="300" alt="Data Analysis GIF">
+  </div>
+</div>
 <h3 align="left">Connect with me!</h3>
  
  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:cttanacoelho@gmail.com)
