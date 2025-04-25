@@ -1,8 +1,10 @@
-<!-- Animated typing title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=800020&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Olá%2C+eu+sou+a+Ana+Coelho!" alt="Typing Animation">
+<div align="center">
+  <!-- Animated typing title -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=500&color=800020&center=true&vCenter=true&repeat=true&width=400&lines=Olá%2C+eu+sou+a+Ana+Coelho!" alt="Typing Animation">
+</div>
 
   <!-- Right-aligned GIF -->
-  <img src="https://media2.giphy.com/media/oWUuipyxfBYGuvEn2K/giphy.gif" width="200" align="right" alt="Data Science GIF">
+  <img src="https://media2.giphy.com/media/oWUuipyxfBYGuvEn2K/giphy.gif" width="100" align="right" alt="Data Science GIF">
 
   <!-- Rounded box with information -->
   <div style="border: 2px solid #FFD1DC; border-radius: 15px; padding: 15px; margin: 20px 0; background-color: #FFF0F5; text-align: center;">
