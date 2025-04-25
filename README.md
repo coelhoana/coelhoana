@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Animated typing title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=500&color=800020&center=true&vCenter=true&repeat=true&width=400&lines=Olá%2C+eu+sou+a+Ana+Coelho!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=1000&color=800020&center=true&vCenter=true&width=600&height=100&lines=Olá%2C+eu+sou+a+Ana+Coelho!" alt="Typing Animation" />
 </div>
 
   <!-- Right-aligned GIF -->
