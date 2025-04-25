@@ -4,17 +4,15 @@
 
 <div align="left">
   ✰ <strong>Aspirante a Cientista de Dados</strong> ✰<br>
-  
+  <br>
   Estudante de Engenharia da Computação na UEMG (5º período), <br>
   com foco em ciência de dados e estatística.Atualmente estudo <br>
   Python, engenharia com análise de dados, e busco desenvolver <br>
   soluções inteligentes e baseadas em evidências.
 </div>
-
 <div align="right">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ0bzh3Nmx5MGw1NDE1MmpiZXc4czJubDRobXI4ZTlycG0zOHJuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9lwr4z6CSzlxC/giphy.gif" width="200" alt="Data Analysis GIF">
 </div>
-
 <h3 align="left">Connect with me!</h3>
  
  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:cttanacoelho@gmail.com)
