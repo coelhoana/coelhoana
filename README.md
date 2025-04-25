@@ -1,18 +1,19 @@
 <div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=50&duration=3000&pause=1000&color=800020&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Ana+Coelho;Data+Science" alt="Typing Name" />
-   
-   <br>
-   
-   *✰ Aspirante a Cientista de Dados ✰*  
-   **Python | C | SQL**  
-   *Engenharia da Computação*
-   
-   <br>
-   
-   <img src="https://media2.giphy.com/media/oWUuipyxfBYGuvEn2K/giphy.gif" width="300" alt="Data Science GIF">
+  <!-- Animated typing text -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=800020&vCenter=true&repeat=true&width=400&height=50&lines=Ana+Coelho;Data+Science" alt="Animated Name">
+
+  <!-- Information box with rounded border -->
+  <div style="border: 2px solid #FFD1DC; border-radius: 15px; padding: 15px; display: inline-block; margin: 20px 0; background-color: #FFF0F5;">
+    ✰ <strong>Aspirante a Cientista de Dados</strong> ✰<br>
+    <strong>Python | C | SQL</strong><br>
+    <em>Engenharia da Computação</em>
+  </div>
+
+  <!-- Smaller GIF -->
+  <img src="https://media2.giphy.com/media/oWUuipyxfBYGuvEn2K/giphy.gif" width="200" alt="Data Science Animation">
 </div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cttanacoelho)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cttanacoelho@gmail.com)
 
 ---
 
