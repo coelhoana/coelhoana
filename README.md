@@ -31,8 +31,7 @@
 Estudante de Engenharia da Computação na Universidade do Estados de Minas Gerais (5º período), 
 com foco em ciência de dados e estatística.
 
-Atualmente estudo Python, engenharia com análise de dados, e busco desenvolver soluções inteligentes baseadas em evidências.
-
+Atualmente estudo Python, engenharia com análise de dados e SQL, enquanto aprofundo meus conhecimentos em machine learning. Estou constantemente desenvolvendo projetos próprios para aplicar conceitos de programação, análise de dados e visualização de informações. Meu objetivo é criar soluções inteligentes e práticas, baseadas em evidências e na interpretação eficiente dos dados.
 </td>
 <td align="right">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ3bXNqOGRrNm82emU3YTEwcjdmbzhpNjZuOWNhYmoxbWI5bHdlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oWUuipyxfBYGuvEn2K/giphy.gif" width="150">
