@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td align="left">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=c51a1a&width=450&lines=Hi!, I'm '@coelhoana', welcome to my Github profile" alt="Typing Animation">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=c51a1a&width=450&lines=Hi!,+I'm+'@coelhoana',+welcome+to+my+Github+profile" alt="Typing Animation">
       <br><br>
       ✰ <strong>Aspirante a Cientista de Dados</strong> ✰<br><br>
       Estudante de Engenharia da Computação na UEMG (5º período),<br>
