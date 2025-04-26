@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=00008B&width=800&lines=Hi!,+I'm+@coelhoana,+welcome+to+my+Github+profile" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=353fde&width=800&lines=Hi!,+I'm+@coelhoana,+welcome+to+my+Github+profile" alt="Typing Animation">
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/coelhoana/coelhoana/main/giit.png" alt="Ana Coelho Banner" width="800">
