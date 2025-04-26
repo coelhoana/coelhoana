@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=00008B&width=800&lines=Hi!,+I'm+@coelhoana,+welcome+to+my+Github+profile" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=00008B&width=800&lines=Hi!,+I'm+**@coelhoana**,+welcome+to+my+Github+profile" alt="Typing Animation">
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/coelhoana/coelhoana/main/giit.png" alt="Ana Coelho Banner" width="800">
@@ -30,7 +30,7 @@
   
 ## 𖦹 Sobre mim
 
-Estudante de Engenharia da Computação na Universidade do Estados de Minas Gerais (5º período), 
+Estudante de **Engenharia da Computação** na Universidade do Estados de Minas Gerais (5º período), 
 com foco em ciência de dados e estatística.
 
 Atualmente estudo Python, engenharia com análise de dados e SQL, enquanto aprofundo meus conhecimentos em machine learning. Estou constantemente desenvolvendo projetos próprios para aplicar conceitos de programação, análise de dados e visualização de informações. Meu objetivo é criar soluções inteligentes e práticas, baseadas em evidências e na interpretação eficiente dos dados.
