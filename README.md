@@ -12,7 +12,7 @@
 
 ---
 
-## 𖦹 Stacks
+## ✰ Stacks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -28,7 +28,7 @@
 <tr>
 <td>
   
-## 𖦹 Sobre mim
+## ✰ Sobre mim
 
 Estudante de **Engenharia da Computação** na Universidade do Estados de Minas Gerais (5º período), 
 com foco em ciência de dados e estatística.
