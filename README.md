@@ -21,16 +21,22 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
-<p align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ3bXNqOGRrNm82emU3YTEwcjdmbzhpNjZuOWNhYmoxbWI5bHdlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oWUuipyxfBYGuvEn2K/giphy.gif" alt="GIF" width="250">
-</p>
+
+<table>
+<tr>
+<td>
 
 ## 𖦹 Sobre mim
 
-Estudante de Engenharia da Computação na UEMG (5º período),
-com foco em ciência de dados e estatística.
+Estudante de Engenharia da Computação na UEMG (5º período), com foco em ciência de dados e estatística.
 
-Atualmente estudo Python, engenharia com análise de dados, 
-e busco desenvolver  soluções inteligentes baseadas em 
-evidências.
+Atualmente estudo Python, engenharia com análise de dados, e busco desenvolver soluções inteligentes baseadas em evidências.
+
+</td>
+<td align="right">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ3bXNqOGRrNm82emU3YTEwcjdmbzhpNjZuOWNhYmoxbWI5bHdlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oWUuipyxfBYGuvEn2K/giphy.gif" width="150">
+</td>
+</tr>
+</table>
+
 
