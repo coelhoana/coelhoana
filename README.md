@@ -23,6 +23,7 @@
 <table>
 <tr>
 <td>
+  
 ## 𖦹 Sobre mim
 
 Estudante de Engenharia da Computação na Universidade do Estados de Minas Gerais (5º período), 
