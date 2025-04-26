@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=B0E0E6&width=800&lines=Hi!,+I'm+'@coelhoana',+welcome+to+my+Github+profile" alt="Typing Animation">
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coelhoana/README.md/main/github.png" alt="Ana Coelho Banner" width="800">
+</p>
 
 ---
 
