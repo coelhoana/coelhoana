@@ -1,15 +1,13 @@
-<table>
-  <tr>
-    <td align="left">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=c51a1a&width=450&lines=Hi!,+I'm+'@coelhoana',+welcome+to+my+Github+profile" alt="Typing Animation">
-      <br><br>
-    
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=c51a1a&width=800&lines=Hi!,+I'm+'@coelhoana',+welcome+to+my+Github+profile" alt="Typing Animation">
+</p>
 
+---
 
-<h3 align="left">Connect with me!</h3>
- 
- [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:cttanacoelho@gmail.com)
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/cttanacoelho/)
+## Connect with me!
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:cttanacoelho@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/cttanacoelho/)
 
 ---
 
@@ -24,10 +22,9 @@
 ---
 
 ## 𖦹 Sobre mim
-      Estudante de Engenharia da Computação na UEMG (5º período),
-      com foco em ciência de dados e estatística. Atualmente estudo
-      Python, engenharia com análise de dados, e busco desenvolver
-      soluções inteligentes e baseadas em evidências.
 
-
+Estudante de Engenharia da Computação na UEMG (5º período),  
+com foco em ciência de dados e estatística. Atualmente estudo  
+Python, engenharia com análise de dados, e busco desenvolver  
+soluções inteligentes e baseadas em evidências.
 
