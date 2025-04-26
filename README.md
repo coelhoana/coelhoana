@@ -21,6 +21,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
+<p align="right">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ3bXNqOGRrNm82emU3YTEwcjdmbzhpNjZuOWNhYmoxbWI5bHdlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oWUuipyxfBYGuvEn2K/giphy.gif" alt="GIF" width="250">
+</p>
 
 ## 𖦹 Sobre mim
 
