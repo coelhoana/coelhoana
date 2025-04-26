@@ -24,8 +24,7 @@
 
 ## 𖦹 Sobre mim
 
-Estudante de Engenharia da Computação na UEMG (5º período),  
-com foco em ciência de dados e estatística. Atualmente estudo  
-Python, engenharia com análise de dados, e busco desenvolver  
-soluções inteligentes e baseadas em evidências.
+Estudante de Engenharia da Computação na UEMG (5º período),com foco em ciência de dados e estatística.
+Atualmente estudo Python, engenharia com análise de dados, e busco desenvolver  soluções inteligentes 
+e baseadas em evidências.
 
