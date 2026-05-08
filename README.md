@@ -30,7 +30,6 @@
 
 Estudante de **Estatística** na Universidade Federal de Minas Gerais.
 
-Atualmente estudo Python e R com foco em Estatística, regressão e Ciência de Dados, além de aprofundar meus conhecimentos em análise de dados e SQL. Estou constantemente desenvolvendo projetos próprios para aplicar conceitos estatísticos, modelagem, visualização e interpretação de dados.
 </td>
 <td align="right">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ3bXNqOGRrNm82emU3YTEwcjdmbzhpNjZuOWNhYmoxbWI5bHdlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oWUuipyxfBYGuvEn2K/giphy.gif" width="150">
