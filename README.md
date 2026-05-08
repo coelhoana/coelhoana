@@ -20,7 +20,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 
 <table>
@@ -29,10 +29,9 @@
   
 ## ✰ Sobre mim
 
-Estudante de **Engenharia da Computação** na Universidade do Estados de Minas Gerais (5º período), 
-com foco em ciência de dados e estatística.
+Estudante de **Estatística** na Universidade Federal de Minas Gerais.
 
-Atualmente estudo Python, engenharia com análise de dados e SQL, enquanto aprofundo meus conhecimentos em machine learning. Estou constantemente desenvolvendo projetos próprios para aplicar conceitos de programação, análise de dados e visualização de informações. Meu objetivo é criar soluções inteligentes e práticas, baseadas em evidências e na interpretação eficiente dos dados.
+Atualmente estudo Python e R com foco em Estatística, regressão e Ciência de Dados, além de aprofundar meus conhecimentos em análise de dados e SQL. Estou constantemente desenvolvendo projetos próprios para aplicar conceitos estatísticos, modelagem, visualização e interpretação de dados.
 </td>
 <td align="right">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ3bXNqOGRrNm82emU3YTEwcjdmbzhpNjZuOWNhYmoxbWI5bHdlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oWUuipyxfBYGuvEn2K/giphy.gif" width="150">
