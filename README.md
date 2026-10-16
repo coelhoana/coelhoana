@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/coelhoana/coelhoana/main/giit.novo.png" alt="Ana Coelho Banner" width="800">
 </p>
 
-## ᯓ★ Connect with me!
+## ᯓ Connect with me!
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=DB7093)](mailto:cttanacoelho@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color00008B)](https://www.linkedin.com/in/cttanacoelho/)
