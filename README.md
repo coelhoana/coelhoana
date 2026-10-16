@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=ffffef0&width=800&lines=Hi!,+I'm+@coelhoana,+welcome+to+my+Github+profile" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=FFEE8C&width=800&lines=Hi!,+I'm+@coelhoana,+welcome+to+my+Github+profile" alt="Typing Animation">
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/coelhoana/coelhoana/main/giit.novo.png" alt="Ana Coelho Banner" width="800">
@@ -7,7 +7,7 @@
 
 ## ᯓ Connect with me!
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=ffffef0)](mailto:cttanacoelho@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFEE8C)](mailto:cttanacoelho@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color00008B)](https://www.linkedin.com/in/cttanacoelho/)
 
 ---
