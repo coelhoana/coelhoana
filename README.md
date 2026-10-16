@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=DB7093&width=800&lines=Hi!,+I'm+@coelhoana,+welcome+to+my+Github+profile" alt="Typing Animation">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coelhoana/coelhoana/main/giit.png" alt="Ana Coelho Banner" width="800">
+  <img src="https://raw.githubusercontent.com/coelhoana/coelhoana/main/giit.novo" alt="Ana Coelho Banner" width="800">
 </p>
 
 ## ᯓ★ Connect with me!
